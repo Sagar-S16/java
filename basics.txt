@@ -1,0 +1,9 @@
+java was made in 1995 by James Gosling
+ide -- integrated development environment
+how java works
+variables
+Datatypes
+    Primitive
+    Non-Primitive
+Type coversion
+conditional statements
